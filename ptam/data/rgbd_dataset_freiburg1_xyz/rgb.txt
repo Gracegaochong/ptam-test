@@ -1,0 +1,16 @@
+mimFrameBW1 rgb/mimFrameBW1.bmp
+mimFrameBW2 rgb/mimFrameBW2.bmp
+mimFrameBW3 rgb/mimFrameBW3.bmp
+mimFrameBW4 rgb/mimFrameBW4.bmp
+mimFrameBW5 rgb/mimFrameBW5.bmp
+mimFrameBW6 rgb/mimFrameBW6.bmp
+mimFrameBW7 rgb/mimFrameBW7.bmp
+mimFrameBW8 rgb/mimFrameBW8.bmp
+mimFrameBW9 rgb/mimFrameBW9.bmp
+mimFrameBW10 rgb/mimFrameBW10.bmp
+mimFrameBW11 rgb/mimFrameBW11.bmp
+mimFrameBW12 rgb/mimFrameBW12.bmp
+mimFrameBW13 rgb/mimFrameBW13.bmp
+mimFrameBW14 rgb/mimFrameBW14.bmp
+mimFrameBW15 rgb/mimFrameBW15.bmp
+mimFrameBW16 rgb/mimFrameBW16.bmp
